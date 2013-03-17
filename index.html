@@ -7,7 +7,7 @@
 	-->
 	<meta charset="utf-8">
 	
-	<title>Mobile Site Template</title>
+	<title>Wine Collection</title>
 	
 	<!--  Mobile viewport optimized: j.mp/bplateviewport -->
 	<meta name="HandheldFriendly" content="True">
@@ -18,17 +18,85 @@
 	<meta http-equiv="cleartype" content="on">
 	
 	<!-- StyleSheets under here -->
-	
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.css" />
+	<link rel="stylesheet" type="text/css" href="http://code.jquery.com/mobile/latest/jquery.mobile.min.css" />
+     <link rel="stylesheet" type="text/css" href="http://dev.jtsage.com/cdn/datebox/latest/jqm-datebox.min.css" /> 
+     <link rel="stylesheet" href="css/styles.css" /> 
 	
 	<!-- JavaScript is normally at the end of the body, except for Modernizr which enables HTML5 elements & feature detects -->
 	<script src="js/libs/modernizr.custom.min.js"></script>
 
 </head>
 <body>
-
-	
+<!-- Home Page -->
+	<page data-role="page">
+		<header data-role="header" data-position="fixed">
+			<label>Home</label>		
+		</header>  <!--Closes the Home Page Header-->
+			
+		<section data-role="content" >
+			<img src="/images/bottles_of_wine.jpg"/>
+			<selection data-role='fieldcontain'>
+				<a href="#redwine" data-role="button" data-icon="arrow-r" data-iconpos="right" data-ajax="false">the Red Wine Collection</a> 
+				<a href="#whitewine" data-role="button" data-icon="arrow-r" data-iconpos="right" data-ajax="false">the White Wine Collection</a> 
+			</selection> 
+		</section><!--Closes the Home Page Content-->
+		
+		<footer data-role="footer" data-position="fixed">
+			<nav data-role="navbar">
+				<ul>
+				</ul>
+			</nav>  
+		</footer>   <!-- Closes the Home Page Footer -->
+	</page>
+	<page data-role="page">
+		<header data-role="header" data-position="fixed">
+			<label>Add to My Wine Collection</label>		
+		</header>
+		<section data-role="content">
+<!-- Red or White? -->
+	<fieldset data-role="comtrolgroup" data-type="horizontal" data-mini="true" class="required"/>
+		<legend>Red or White?</legend>
+		<input type="radio" value="red" name="type" id="type1" checked="checked" class="required"/>
+		<label for="type-1">Red</label>
+		<input type="radio" value="white" name="type" id="type2"/>
+		<label for="type-2">White</label>
+		<p> Please select Red or White</p>
+	</fieldset>
+<!--Input Winery -->
+			<div>
+				<label for="winery">Winery:</label>
+				<input type="text" placeholder="Enter winery name" type="text" data-mini="true" name="winery" class="required"/>
+			</div>
+<!--Input Varietal -->
+			<div>
+				<label for="varietal">Varietal:</label>
+				<input type="text" placeholder="Enter the varietal of wine" type="text" data-mini="true" name="varietal" class="required"/>
+			</div>
+<!--Input Year-->
+			<div>
+				<label for="vintage">Vintage:</label>
+				<input type="text" placeholder="Enter the vintage" type="text" data-mini="true" name="vintage" class="required"/>
+			</div>
+<!--Input Region-->
+			<div>
+				<label for="region">Region:</label>
+				<input type="text" placeholder="Enter the growing region" type="text" data-mini="true" name="region" class="required"/>
+			</div>
+<!--Input Number of Bottles-->
+			<div>
+				<label for="bottles">How many bottles?</label>
+				<input type="text" placeholder="Enter the number of bottles to add" type="text" data-mini="true" name="bottles" class="digits" />
+			</div>
+		</section>
+	</page>
 
 	<!-- JavaScript under here -->
+	<script src="http://code.jquery.com/jquery-1.9.1 .min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
+     <script type="text/javascript" src="http://dev.jtsage.com/cdn/datebox/latest/jqm-datebox.core.min.js"></script>
+     <script type="text/javascript" src="http://dev.jtsage.com/cdn/datebox/latest/jqm-datebox.mode.calbox.min.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 
 </body>
 </html>

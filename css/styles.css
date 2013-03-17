@@ -1,0 +1,52 @@
+// ASD March 2013
+// Anthony Torrez
+ 
+
+label.error {
+	display:block; 
+	margin:15px 0; 
+	color:turquoise;
+	font-size: 18px;
+	font-style: bold;
+}
+
+body {
+	overflow: scroll;
+}
+
+fieldset {
+	border: 3px solid red;
+}
+
+p {
+	margin: 20 px;
+	color: orange;
+	font-size: 18px;
+	text-align: align left;
+	text-indent: 20 px;
+	font: verdana, tehoma, geneva ;
+}
+
+a {
+	color: red;
+	font-style: arial unicode ms;
+	font-size: 18px;
+}
+a:active {
+	color: yellow;
+	font-style:arial, normal;
+	font-size: 18px;
+}
+
+
+li {
+	color: white;
+}
+
+input {
+	color: blue;
+}
+
+label {
+	position: right;
+}

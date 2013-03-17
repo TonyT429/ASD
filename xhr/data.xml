@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="item1">
+        	<type>red</type>
+        	<winery>Sterling Vineyards</winery>
+        	<varietal>Reserve Cabernet Sauvignon</varietal>
+        	<vintage>2007</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>1</bottles>
+        	<comment>Fragrant spices lift through layers of dark cherries and black cassis, developing an intense perfume of licorice, cocoa powder and black pepper when swirled. With great length and breadth, the fruit spans across the broad palate, matched by espresso, vanilla, and anise. The tannins are dense and fleshy, effortlessly supporting the rich, full body and suggesting a long life. </comments>
+        	<rate>"9"</rate>
+    </item>
+    	<item id="item2" >
+        	<type>red</type>
+        	<winery>Sterling Vineyards</winery>
+        	<varietal>Three Palms Vineyard Merlot</varietal>
+        	<vintage>2007</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>3</bottles>
+        	<comment>The wine’s intense, ripe black cherry aromas and expansive flavors slowly unfold to reveal complex notes of mineral, mocha, spice, rose and toasty oak. </comments>
+        	<rate>"8"</rate>
+    </item>
+    	<item id="item3">
+        	<type>red</type>
+        	<winery>Sterling Vineyards</winery>
+        	<varietal>Cellar Club Cabernet Sauvignon</varietal>
+        	<vintage>2008</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>2</bottles>
+        	<comment>In the glass, our Rutherford Cabernet Sauvignon shows dark, inky purple depths that bloom with brambly black fruit, blueberry pie and layers of toasted oak, nutmeg and clove. The signature Rutherford fruit shines across the midpalate as the smooth entry develops a brooding underbelly of rich, dark, juicy fruit. Dried cherries, dark cocoa and sweet hazelnut coffee melt through the middle, joined by barrel nuances that lend tannins and structure without overpowering the fruit. </comments>
+        	<rate>"9"</rate>
+    </item>
+    	<item id="item4">
+         	<type>white</type>
+        	<winery>Chateau Montelena</winery>
+        	<varietal>Sauvignon Blanc</varietal>
+        	<vintage>2011</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>4</bottles>
+        	<comment>Showing a pale golden color in the glass, this young wine opens with aromas of Charantais melon, good varietal grapefruit notes, brown sugar, honeysuckle, orange blossom, and a tropical hint of papaya. On the palate the firm acid core makes for a very juicy entry and nice persistant finish. It is rich and round, mouthcoating with excellent concentration. The flavors are largely citrus driven, honey tangerine initially moving into sweet grapefruit on the finish, but with lovely layers of tropical fruits as well – mango, guava, and papaya. </comments>
+        	<rate>"7"</rate>
+    </item>
+    	<item id="item5">
+         	<type>white</type>
+        	<winery>Chateau Montelena</winery>
+        	<varietal>Potter Valley Reisling</varietal>
+        	<vintage>2011</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>2</bottles>
+        	<comment>Pale gold in color, this Riesling opens with floral aromas of honeysuckle and candied orange, layered with pear, spicy honey, and rich Charentais melon. The palate shows a nice smooth entry; full and round, but not heavy, with good crisp acidity. Flavors of lemon zest and tart mandarins lead the way and are followed by light stone fruits, honey, and poached pear – all rounded off with a warm, subtle, spicy finish. </comments>
+        	<rate>"8"</rate>
+
+    </item>
+    	<item id="item6">
+         	<type>white</type>
+        	<winery>Clos Pegase</winery>
+        	<varietal>Hommage Chardonnay</varietal>
+        	<vintage>2008</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>1</bottles>
+        	<comment>A brilliant pale golden color shows off intense golden apple, baked pear, quince jam, brioche, beeswax and spicy notes. Lush and fleshy on the palate, the thick, rich texture balances mouth-filling intensity of flavor and leads to a finish of great length and stylish minerality.</comments>
+        	<rate>"9"</rate>
+    </item>
+    	<item id="item7">
+          <type>white</type>
+        	<winery>Clos Pegase</winery>
+        	<varietal>Mitsuko's Vineyard Chardonnay</varietal>
+        	<vintage>2010</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>3</bottles>
+        	<comment>Mitsuko's Vineyard Chardonnay possesses compelling aromas of intense ripe pear, Meyer lemon zest, peach nectar, white flowers, fennel pollen and beeswax, framed by subtly spicy toasty oak. An opulent yet focused entry foreshadows a mouthfilling mid-palate with broad textured supple fruit flavors, finishing with a fascinating balance of length, richness and minerality.</comments>
+        	<rate>"7"</rate>
+    </item>
+    	<item id="item8">
+          <type>red</type>
+        	<winery>Clos Pegase</winery>
+        	<varietal>Vin Gris Rosé</varietal>
+        	<vintage>2011</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>3</bottles>
+        	<comment>Vin Gris possesses a fragrant and perfumed nose redolent of red raspberries and cherries with a hint of wildflowers and dried mint. The wine has a vivid entry with an expansive, juicy and elegant palate. This wine is built for pure refreshment and enjoyment - perfect for a summer lunch al fresco, or as a refreshing aperitif.</comments>
+        	<rate>"6"</rate>
+    </item>
+    	<item id="item9">
+           <type>red</type>
+        	<winery>Clos Pegase</winery>
+        	<varietal>Cabernet Franc</varietal>
+        	<vintage>2009</vintage>
+        	<region>Napa Valley</region>
+        	<bottles>5</bottles>
+        	<comment>Fragrant aromas of red currants, cherries, and plums combine with toasty oak, pencil shavings, and a hint of smoke on the nose. On the palate, a medium weight wine with great vibrancy and lusciousness leaves the lingering flavor of chocolate-coated cherries.</comments>
+        	<rate>"8"</rate>
+    </item>
+</items>

@@ -1,0 +1,127 @@
+{"items": [{
+	"type" : "white",
+	"winery" : "ZD",
+	"varietal" : "Chardonnay",
+	"vintage" : "2009",
+	"region" : "Napa Valley",
+	"bottles" : "2",
+	"comments" : "Aromas of sweet pineapple, apricot and tart apple with hints of vanilla, pear and honey. Full bodied on the palate, with ripe apricot, pineapple and sweet toasty oak integrating nicely with the balanced acidity.",
+	"rate" : "9"
+},
+{
+	"type" : "white",
+	"winery" : "Wente",
+	"varietal" : "Morning Fog Chardonnay",
+	"vintage" : "2006",
+	"region" : "Livermore Valley",
+	"bottles" : "5",
+	"comments" : "beautiful straw color and aromas of freshly cut red apple, 
+vanilla and well-integrated oak.  There are also enticing aromas of tropical and citrus 
+fruit.  The predominant flavors are clean, tart apple with toasty graham and subtle 
+oak.  This Chardonnay has a mouth-filling body with a medium-long finish that is 
+very refreshing.",
+	"rate" : "8"
+},
+{
+	"type" : "white",
+	"winery" : "Wente",
+	"varietal" : "Riverbank Riesling",
+	"vintage" : "2010",
+	"region" : "Monterey",
+	"bottles" : "1",
+	"comments" : "This Riesling is full of honeysuckle and floral lychee 
+aromas.  The taste is crisp and fresh, delivering full varietal flavors.  The acid and 
+the semi-sweetness are perfectly balanced for an excellent mouth feel.  This 
+intriguing wine.",
+	"rate" : "8"
+},
+{
+	"type" : "white",
+	"winery" : "Sterling Vineyards",
+	"varietal" : "Vintner's Collection Sauvignon Blanc",
+	"vintage" : "2009",
+	"region" : "Central Coast California",
+	"bottles" : "2",
+	"comments" : "This wine opens with pretty aromas of passion fruit and orange peel. The flavors are clean and crisp as flashes of citrus grace the warm, tropical guava and honeydew.",
+	"rate" : "7"
+},
+{
+	"type" : "white",
+	"winery" : "Sterling Vineyards",
+	"varietal" : "Reserve Chardonnay",
+	"vintage" : "2008",
+	"region" : "Napa Valley",
+	"bottles" : "3",
+	"comments" : "Sweeping aromas of toffee, nutmeg and clove settle on rich apple pie, baked pear and macerated Meyer lemon in the potent, polished profile of our 2008 Reserve Chardonnay. Citrus notes grace round Gala apples and poached pears on the entry, and then dive into toast and crème brûlée. Tropical fruit expands through the finish, touched by a hint of caramel and baking spice.",
+	"rate" : "9"
+},
+{
+	"type" : "white",
+	"winery" : "Chateau Montelena",
+	"varietal" : "Chardonnay",
+	"vintage" : "2002",
+	"region" : "Napa Valley",
+	"bottles" : "3",
+	"comments" : "In the glass the wine boasts a bright yellow-gold color. The aroma at first shows very spicy Chardonnay varietal character, then reveals notes of lime peel, green apple, and mineral, all in a bright, refreshing style. The palate follows the aroma very nicely with flavors of fresh lime, apple, kiwi, and spice. The texture is full, but still soft and round. The finish has excellent length and displays even more apple flavors.",
+	"rate" : "8"},
+{
+	"type" : "white",
+	"winery" : "Chateau Montelena",
+	"varietal" : "Chardonnay",
+	"vintage" : "2004",
+	"region" : "Napa Valley",
+	"bottles" : "3",
+	"comments" : "Aromas of very rich Chardonnay dominate the nose, while green apple, melon, citrus (grapefruit) combine for a very nice mélange that contributes complexity. Also interesting, the 2004 exhibits more pronounced floral tones than is typical – perhaps an added benefit of night harvesting. On the palate this Chardonnay has a nice soft entry leading to a round, full-flavored impression of fruit, melon and citrus rind. It is elegant and balanced: supple, yet with crisp acidity, a direct result of no malolactic fermentation.",
+	"rate" : "9"
+},
+{
+	"type" : "white",
+	"winery" : "Chateau Montelena",
+	"varietal" : "Riesling",
+	"vintage" : "2009",
+	"region" : "Potter Valley ",
+	"bottles" : "1",
+	"comments" : "Brilliantly clear in the glass with a pale golden straw color, this wine opens with big aromas of honeysuckle and pear along with a chalky minerality, classic Riesling spice, citron, apricot, and a slight nuttiness. Soft and round on the palate with a fleshy entry, it shows exemplary persistence and fantastic weight throughout. Rich flavors of honey, apricot, and tropical passion fruit flood the mid-palate, followed by a crisp lime note on the finish, and tailing into sweet toasted spice.",
+	"rate" : "8"
+},
+{
+	"type" : "red",
+	"winery" : "Wente",
+	"varietal" : "Nth Degree Cabernet Sauvigon",
+	"vintage" : "2010",
+	"region" : "Livermore Valley",
+	"bottles" : "1",
+	"comments" : "2010 vintage offers mouth-filling flavors and bold tannins characteristic of great California Cabernets. It delights with flavors of ripe black cherry, cassis, black tea, coffee and cocoa, and has a rich, well-balanced finish.",
+	"rate" : "9"
+},
+{                            
+	"type" : "red",
+	"winery" : "Concannon",
+	"varietal" : "Reserve Assemblage Red",
+	"vintage" : "2009",
+	"region" : "Livermore Valley",
+	"bottles" : "2",
+	"comments" : "A rich wine replete with dark cherry, blackberry, clove and nutmeg flavors. The dark fruit is well integrated with oak tones and olive aromas that overlay a refined structure. This wine has a long and luxurious finish.",
+	"rate" : "8"
+{
+{
+	"type" : "red",
+	"winery" : "Concannon",
+	"varietal" : "Nth Degree Cabernet Sauvigon",
+	"vintage" : "2010",
+	"region" : "Livermore Valley",
+	"bottles" : "1",
+	"comments" : "2010 vintage offers mouth-filling flavors and bold tannins characteristic of great California Cabernets. It delights with flavors of ripe black cherry, cassis, black tea, coffee and cocoa, and has a rich, well-balanced finish.",
+	"rate" : "9"
+},
+{
+	"type" : "red",
+	"winery" : "Concannon",
+	"varietal" : "Reserve Zinfandel",
+	"vintage" : "2009",
+	"region" : "Livermore Valley",
+	"bottles" : "3",
+	"comments" : "An intense rich wine with Zinfandel decadence. Plentiful aromas of blackberries, dark cherries and blueberries rise from the nose and black raspberry jam flavors enrich the palate. Subtle sweet oak notes lead to a creamy finish.",
+	"rate" : "8"
+}]
+}
